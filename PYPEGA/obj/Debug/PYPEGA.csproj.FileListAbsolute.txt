@@ -1,0 +1,8 @@
+C:\c#\PYPEGA\PYPEGA\obj\Debug\PYPEGA.csprojAssemblyReference.cache
+C:\c#\PYPEGA\PYPEGA\obj\Debug\PYPEGA.Properties.Resources.resources
+C:\c#\PYPEGA\PYPEGA\obj\Debug\PYPEGA.csproj.GenerateResource.cache
+C:\c#\PYPEGA\PYPEGA\bin\Debug\PYPEGA.exe.config
+C:\c#\PYPEGA\PYPEGA\bin\Debug\PYPEGA.exe
+C:\c#\PYPEGA\PYPEGA\bin\Debug\PYPEGA.pdb
+C:\c#\PYPEGA\PYPEGA\obj\Debug\PYPEGA.exe
+C:\c#\PYPEGA\PYPEGA\obj\Debug\PYPEGA.pdb
